@@ -98,5 +98,29 @@
   }, {
     "name": "audio",
     "svg": "hardware/svg/production/ic_headset_48px.svg"
+  }, {
+    "name": "googlecast",
+    "svg": "ic_cast_24dp.svg",
+    "root-dir": "./custom-icons/googlecast/"
+  }, {
+    "name": "googlecast-0",
+    "svg": "ic_cast0_24dp.svg",
+    "root-dir": "./custom-icons/googlecast/"
+  }, {
+    "name": "googlecast-1",
+    "svg": "ic_cast1_24dp.svg",
+    "root-dir": "./custom-icons/googlecast/"
+  }, {
+    "name": "googlecast-2",
+    "svg": "ic_cast2_24dp.svg",
+    "root-dir": "./custom-icons/googlecast/"
+  }, {
+    "name": "googlecast-connected",
+    "svg": "ic_cast_connected_24dp.svg",
+    "root-dir": "./custom-icons/googlecast/"
+  }, {
+    "name": "airplay",
+    "svg": "airplay.svg",
+    "root-dir": "./custom-icons/"
   }]
 }
