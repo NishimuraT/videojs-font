@@ -1,17 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
-    <title>ic_cast1_black_24dp</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="ic_cast1_black_24dp" sketch:type="MSArtboardGroup">
-            <g id="ic_remove_circle_white_24dp" sketch:type="MSLayerGroup">
-                <path d="M1,18 L1,21 L4,21 C4,19.34 2.66,18 1,18 L1,18 Z" id="Path" opacity="0.3" fill="#000000" sketch:type="MSShapeGroup"></path>
-                <path d="M1,14 L1,16 C3.76,16 6,18.24 6,21 L8,21 C8,17.13 4.87,14 1,14 L1,14 Z" id="Path" fill="#000000" sketch:type="MSShapeGroup"></path>
-                <path d="M1,10 L1,12 C5.97,12 10,16.03 10,21 L12,21 C12,14.92 7.07,10 1,10 L1,10 Z" id="Path" opacity="0.3" fill="#000000" sketch:type="MSShapeGroup"></path>
-                <path d="M21,3 L3,3 C1.9,3 1,3.9 1,5 L1,8 L3,8 L3,5 L21,5 L21,19 L14,19 L14,21 L21,21 C22.1,21 23,20.1 23,19 L23,5 C23,3.9 22.1,3 21,3 L21,3 Z" id="cast" fill="#000000" sketch:type="MSShapeGroup"></path>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24"
+	 style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.3;enable-background:new    ;}
+</style>
+<title>ic_cast1_black_24dp</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1" sketch:type="MSPage">
+	<g id="ic_cast1_black_24dp" sketch:type="MSArtboardGroup">
+		<g id="ic_remove_circle_white_24dp" sketch:type="MSLayerGroup">
+			<path id="Path" sketch:type="MSShapeGroup" class="st0" d="M2.1,17.4v2.7h2.7C4.8,18.6,3.6,17.4,2.1,17.4L2.1,17.4z"/>
+			<path id="Path_1_" sketch:type="MSShapeGroup" d="M2.1,13.8v1.8c2.5,0,4.5,2,4.5,4.5h1.8C8.4,16.6,5.6,13.8,2.1,13.8L2.1,13.8z"
+				/>
+			<path id="Path_2_" sketch:type="MSShapeGroup" class="st0" d="M2.1,10.2V12c4.5,0,8.1,3.6,8.1,8.1H12C12,14.6,7.6,10.2,2.1,10.2
+				L2.1,10.2z"/>
+			<path id="cast" sketch:type="MSShapeGroup" d="M20.1,3.9H3.9c-1,0-1.8,0.8-1.8,1.8v2.7h1.8V5.7h16.2v12.6h-6.3v1.8h6.3
+				c1,0,1.8-0.8,1.8-1.8V5.7C21.9,4.7,21.1,3.9,20.1,3.9L20.1,3.9z"/>
+		</g>
+	</g>
+</g>
 </svg>
